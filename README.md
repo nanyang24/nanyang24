@@ -14,6 +14,6 @@
 - [Instagram](https://www.instagram.com/nanyang24)
 
 <details>
-  <summary><b>:telescope: 2020 Goals</b></summary>
+  <summary><b>:telescope: 2021 Goals</b></summary>
   I'm currently working some interesting projects that haven't been completed yet, and I'll release them ASAP.
 </details>
